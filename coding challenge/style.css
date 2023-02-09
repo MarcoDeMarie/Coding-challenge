@@ -1,0 +1,58 @@
+body{
+    background-image: url("immagini\\background.jpg"); 
+    background-size: cover
+}
+
+.logo{
+    width: 250px;
+  
+}
+.centrato{
+    width: 1000px;
+    margin: auto
+}
+header > h1{
+    color: rgb(70, 206, 82);
+}
+
+header > div{
+    box-sizing: border-box;
+    background-color: greenyellow;
+    width: auto;
+    height: 40px;
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 10px     
+}
+
+.scritte{
+    color: white;
+}
+
+.pattino-1{
+    background-color: orange;
+    width: 250px;
+    height: 20px;
+    border-radius: 5%;
+    margin-bottom: 30px;
+}
+.pattino-2{
+    background-color: green;
+    width: 400px;
+    height: 20px;
+    border-radius: 5%;
+    margin-bottom: 30px;
+}
+.pattino-3{
+    background-color: red;
+    width: 150px;
+    height: 20px;
+    border-radius: 5%; 
+}
+.quadratone{
+    box-sizing: border-box;
+    background-color: rgba(0, 0, 0, 0.432);
+    width: auto;
+    height: auto;
+    padding: 70px;
+}
